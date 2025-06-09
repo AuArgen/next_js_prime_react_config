@@ -35,7 +35,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 ## .env
+```
 NEXT_PUBLIC_API_URL=https://example.com/api
 NEXT_PUBLIC_API_URL_LOCAL=http://localhost:3000/api
 NEXT_PUBLIC_AUTH_SERVICE=https://testaccount.primeactive.net/client/login?auth_code=
 NEXT_PUBLIC_NODE_ENV=local
+```
